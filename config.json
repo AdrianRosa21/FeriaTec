@@ -1,0 +1,11 @@
+{
+  "titulo_consola": "CYBER RESCUE WINDOWS - SIMULACION EDUCATIVA",
+  "virus_nombre": "virus",
+  "ranking_api_url": "http://localhost:3000/api/scores",
+  "ranking_api_key": "feriatec-secret-key-2026",
+  "mensajes": {
+    "bienvenida": "[OK] Sistema de archivos simulado inicializado en ./simulation_data/\n[WARNING] virus detectado en memoria.\nEscribe 'help' para ver los comandos de mitigacion.",
+    "simulacion_educativa": "ATENCION: ESTO ES UNA SIMULACION EDUCATIVA. NO SE MODIFICARAN ARCHIVOS REALES DE TU EQUIPO.",
+    "ayuda": "Comandos disponibles en el prototipo:\n  help    - Muestra este menu de ayuda.\n  scan    - Analiza el sistema simulado en busca de malware.\n  clear   - Limpia la pantalla de la terminal.\n  exit    - Cierra la aplicacion."
+  }
+}
